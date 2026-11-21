@@ -1,5 +1,7 @@
 # GTA 6 Leonida Map Marker Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412576.svg)](https://doi.org/10.5281/zenodo.24412576)
+
 798 map markers for the six regions of Leonida in Grand Theft Auto VI, published as CSV and
 JSON under CC BY 4.0.
 
@@ -72,3 +74,11 @@ of the data in this repository.
 - Interactive map, all six regions: https://gta6maps.io/gta-6
 - Printable A3/A4 map of the same pins: https://gta6maps.io/gta-6/printable-map
 - How pins move from sourced to verified: https://gta6maps.io/gta-6/verification
+
+## Archived copy with a DOI
+
+The same data is archived on Zenodo and has a DOI, so it can be cited formally in articles,
+papers and tooling docs:
+
+- DOI: [10.5281/zenodo.24412576](https://doi.org/10.5281/zenodo.24412576)
+- Record: https://zenodo.org/records/24412576
