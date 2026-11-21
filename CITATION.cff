@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "GTA 6 Leonida Map Marker Dataset"
+authors:
+  - name: "GTA6Maps"
+    website: "https://gta6maps.io"
+version: "2026-11-18"
+date-released: 2026-11-18
+license: CC-BY-4.0
+url: "https://gta6maps.io/gta-6/map-data"
+repository-code: "https://github.com/duanhesen/gta6-leonida-map-data"
+abstract: "798 map markers across the six regions of GTA 6's Leonida, as CSV and JSON. Every marker is labelled with its evidence state."
+keywords:
+  - gta 6
+  - map
+  - dataset
+  - gaming
