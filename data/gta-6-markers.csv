@@ -1,0 +1,799 @@
+id,name,category,category_name,region,region_name,x,y,status
+lm-l2872,Ocean Beach,activities,Activities,vice-city,Vice City,0.6875,0.4898,sourced
+lm-l496,Crosstown,businesses,Businesses,vice-city,Vice City,0.6793,0.4893,sourced
+lm-l3330,Ambrosia,landmarks,Landmarks,ambrosia,Ambrosia,0.5203,0.34,sourced
+lm-l25,Dominion Hotel,businesses,Businesses,vice-city,Vice City,0.688,0.4897,sourced
+lm-l2521,Lummox County,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4062,0.1885,sourced
+lm-l2034,Parlor WO13?,landmarks,Landmarks,vice-city,Vice City,0.689,0.463,sourced
+lm-l880,Fuzzard Power Station (1),businesses,Businesses,vice-city,Vice City,0.6621,0.5274,sourced
+lm-l2464,Vice City,landmarks,Landmarks,vice-city,Vice City,0.6735,0.4896,sourced
+lm-l479,Stockyard (Vice City),landmarks,Landmarks,vice-city,Vice City,0.679,0.4878,sourced
+lm-l2937,Footbridge,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2496,0.4232,sourced
+lm-l1618,Capri,landmarks,Landmarks,grassrivers,Grassrivers,0.4395,0.5404,sourced
+lm-l183,Bayside,landmarks,Landmarks,vice-city,Vice City,0.6808,0.4887,sourced
+lm-l1248,Vice-Dale County,activities,Activities,vice-city,Vice City,0.6825,0.4899,sourced
+lm-l3275,Millport,businesses,Businesses,mount-kalaga,Mount Kalaga,0.45,0.14,sourced
+lm-l1862,Public Restrooms (Ocean Beach),activities,Activities,vice-city,Vice City,0.6883,0.4884,sourced
+lm-l1161,Route 1,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7337,0.8779,sourced
+lm-l300,Lucky Plucker,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l3019,Park (Downtown),activities,Activities,vice-city,Vice City,0.707,0.499,sourced
+lm-l245,Tequesta,landmarks,Landmarks,vice-city,Vice City,0.68,0.4918,sourced
+lm-l615,Crossroad Park Minimall,businesses,Businesses,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l2608,Park (Ocean Beach),activities,Activities,vice-city,Vice City,0.686,0.511,sourced
+lm-l2258,Gloriana Key,landmarks,Landmarks,vice-city,Vice City,0.6834,0.494,sourced
+lm-l2576,Little Cuba (Vice City),landmarks,Landmarks,vice-city,Vice City,0.6767,0.4909,sourced
+lm-l2126,Dalton Island,landmarks,Landmarks,vice-city,Vice City,0.6867,0.4922,sourced
+lm-l992,Peacock Bay,landmarks,Landmarks,vice-city,Vice City,0.6742,0.4957,sourced
+lm-l3367,Waning Sands,landmarks,Landmarks,vice-city,Vice City,0.6718,0.4622,sourced
+lm-l584,La Perle (Vice City),landmarks,Landmarks,vice-city,Vice City,0.6786,0.4878,sourced
+lm-l3222,Hamlet,landmarks,Landmarks,vice-city,Vice City,0.6432,0.5234,sourced
+lm-l2960,Rockridge,activities,Activities,vice-city,Vice City,0.6762,0.4901,sourced
+lm-l2433,Service Gate,landmarks,Landmarks,vice-city,Vice City,0.6697,0.4892,sourced
+lm-l2599,Adelphila? Jewelry,activities,Activities,vice-city,Vice City,0.6874,0.4914,sourced
+lm-l2063,Bluegrass,landmarks,Landmarks,vice-city,Vice City,0.6541,0.5144,sourced
+lm-l707,Bridge (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l357,Mexican Restaurant,businesses,Businesses,vice-city,Vice City,0.6433,0.5235,sourced
+lm-l5,Washington Beach (Vice Beach),activities,Activities,vice-city,Vice City,0.6891,0.4854,sourced
+lm-l1423,Key Lento,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7399,0.8702,sourced
+lm-l642,Vice Beach,activities,Activities,vice-city,Vice City,0.6877,0.479,sourced
+lm-l1073,Leonida,landmarks,Landmarks,grassrivers,Grassrivers,0.4528,0.5256,sourced
+lm-l212,El Gabeto Center,landmarks,Landmarks,vice-city,Vice City,0.6767,0.4908,sourced
+lm-l1589,Gas Station (Southside),businesses,Businesses,vice-city,Vice City,0.659,0.5097,sourced
+lm-l984,Leonard County,landmarks,Landmarks,vice-city,Vice City,0.6543,0.44,sourced
+lm-l2560,Salton,landmarks,Landmarks,vice-city,Vice City,0.6725,0.4884,sourced
+lm-l2425,Parking Lot (Vice City International Airport),landmarks,Landmarks,vice-city,Vice City,0.686,0.475,sourced
+lm-l2976,River (Leonida),activities,Activities,mount-kalaga,Mount Kalaga,0.4128,0.1908,sourced
+lm-l438,Dock Ring,landmarks,Landmarks,vice-city,Vice City,0.681,0.4904,sourced
+lm-l1209,Rialto Islands,activities,Activities,vice-city,Vice City,0.6838,0.489,sourced
+lm-l1989,Leaf Links,activities,Activities,vice-city,Vice City,0.6873,0.48,sourced
+lm-l341,24/7 Supermarket,businesses,Businesses,leonida-keys,Leonida Keys,0.7407,0.8689,sourced
+lm-l1120,Port Gellhorn,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l1570,Boone Speedway,activities,Activities,mount-kalaga,Mount Kalaga,0.3956,0.1932,sourced
+lm-l204,Downtown,landmarks,Landmarks,vice-city,Vice City,0.68,0.4907,sourced
+lm-l1065,Sugar Fields,landmarks,Landmarks,ambrosia,Ambrosia,0.5205,0.3401,sourced
+lm-l654,Bridge (Vice-Dale County),landmarks,Landmarks,vice-city,Vice City,0.6864,0.4785,sourced
+lm-l3408,Ricardo's Tires,landmarks,Landmarks,vice-city,Vice City,0.6732,0.4735,sourced
+lm-l2219,Vice City Oceanarium,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7466,0.8485,sourced
+lm-l2537,Alpha,businesses,Businesses,vice-city,Vice City,0.6874,0.4914,sourced
+lm-l879,Fuzzard Power Station (S),businesses,Businesses,vice-city,Vice City,0.6621,0.5274,sourced
+lm-l33,Shore Dr,businesses,Businesses,vice-city,Vice City,0.6878,0.4905,sourced
+lm-l2864,Shoreline,landmarks,Landmarks,vice-city,Vice City,0.6808,0.4902,sourced
+lm-l3263,Yorktown,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2482,0.4297,sourced
+lm-l195,Lou's,businesses,Businesses,vice-city,Vice City,0.6768,0.4901,sourced
+lm-l2188,Juxta Gallery,businesses,Businesses,vice-city,Vice City,0.6868,0.489,sourced
+lm-l746,Metro Station (Downtown),businesses,Businesses,vice-city,Vice City,0.6803,0.4906,sourced
+lm-l1527,Allied Crystal,landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l316,Car Wash (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l1874,Public Restrooms (Gloriana Key),landmarks,Landmarks,vice-city,Vice City,0.685,0.4979,sourced
+lm-l253,SW 9th Ave,activities,Activities,vice-city,Vice City,0.674,0.4956,sourced
+lm-l3218,Prison (Hamlet),landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3957,0.1906,sourced
+lm-l947,Juice Fruit Sign,activities,Activities,port-gellhorn,Port Gellhorn,0.251,0.4347,sourced
+lm-l2059,Southside,landmarks,Landmarks,vice-city,Vice City,0.6573,0.5123,sourced
+lm-l48,Bobby Hurricane's,landmarks,Landmarks,vice-city,Vice City,0.6878,0.4904,sourced
+lm-l101,Vice Beach Welcome Mural,activities,Activities,vice-city,Vice City,0.6877,0.4865,sourced
+lm-l1360,Catalan Key,activities,Activities,vice-city,Vice City,0.6843,0.5013,sourced
+lm-l1419,Bus Stop (Stockyard),landmarks,Landmarks,vice-city,Vice City,0.683,0.52,sourced
+lm-l3424,Frampton Islands,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4068,0.1873,sourced
+lm-l382,Starfish Island,landmarks,Landmarks,vice-city,Vice City,0.6854,0.4903,sourced
+lm-l1049,Warehouse,landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l697,Container Crane #1,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l2720,Prison Building,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3957,0.1906,sourced
+lm-l1622,Spender's,landmarks,Landmarks,vice-city,Vice City,0.6572,0.5124,sourced
+lm-l1272,Vice City International Airport,businesses,Businesses,vice-city,Vice City,0.6689,0.4886,sourced
+lm-l1788,SW 4th St (Vice Beach),activities,Activities,vice-city,Vice City,0.688,0.4864,sourced
+lm-l506,"""House D""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.7406,0.8689,sourced
+lm-l1337,Intersection,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7406,0.869,sourced
+lm-l785,Watson Bay,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l3023,Covered Grandstands,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.232,0.451,sourced
+lm-l3189,Tennis Court (Washington Beach),activities,Activities,vice-city,Vice City,0.674,0.475,sourced
+lm-l2262,Lifeguard Tower (Washington Beach),activities,Activities,vice-city,Vice City,0.704,0.484,sourced
+lm-l1858,Kelly County,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2501,0.4315,sourced
+lm-l2777,Balsero (Vice City),landmarks,Landmarks,vice-city,Vice City,0.6715,0.4855,sourced
+lm-l1771,El Joven Blvd,landmarks,Landmarks,vice-city,Vice City,0.6602,0.5076,sourced
+lm-l2624,Third Eye,activities,Activities,vice-city,Vice City,0.6866,0.4891,sourced
+lm-l1458,Bridge (Mariana County),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7409,0.8648,sourced
+lm-l269,Cell Tower (Route 1),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7388,0.8719,sourced
+lm-l1008,Animal Hospital of Key Lento,businesses,Businesses,leonida-keys,Leonida Keys,0.7337,0.8778,sourced
+lm-l402,Tucker's Tower,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.43,sourced
+lm-l1399,Water Tower (Leonida),activities,Activities,vice-city,Vice City,0.6967,0.44,sourced
+lm-l1376,Abandoned Hovercraft,activities,Activities,mount-kalaga,Mount Kalaga,0.4033,0.1909,sourced
+lm-l117,? (N) (Ocean Beach),landmarks,Landmarks,vice-city,Vice City,0.6876,0.4906,sourced
+lm-l2673,Turn 12,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l2311,DJB Shipyard,businesses,Businesses,vice-city,Vice City,0.6723,0.4885,sourced
+lm-l2604,Cell Tower (Southside),landmarks,Landmarks,vice-city,Vice City,0.665,0.481,sourced
+lm-l619,Marina (Watson Bay),businesses,Businesses,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l2487,Lake (Mariana County),activities,Activities,vice-city,Vice City,0.6692,0.5391,sourced
+lm-l1301,Abismo Key,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7153,0.8877,sourced
+lm-l1751,Lock (Peregrine Bay),landmarks,Landmarks,vice-city,Vice City,0.653,0.499,sourced
+lm-l530,Mount Kalaga,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4,0.1712,sourced
+lm-l475,Lucia's Apartment,landmarks,Landmarks,vice-city,Vice City,0.6806,0.4885,sourced
+lm-l926,Football Stadium?,businesses,Businesses,ambrosia,Ambrosia,0.5199,0.3399,sourced
+lm-l3107,Bus Stop (Salton),landmarks,Landmarks,vice-city,Vice City,0.674,0.481,sourced
+lm-l2203,Mariana County,landmarks,Landmarks,leonida-keys,Leonida Keys,0.72,0.8753,sourced
+lm-l834,Fountain of Youth,activities,Activities,mount-kalaga,Mount Kalaga,0.4082,0.1912,sourced
+lm-l422,Rivo Bridge,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7461,0.8465,sourced
+lm-l1086,Container Crane (2),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2505,0.4336,sourced
+lm-l2700,Turn ?,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l3404,Port Vice City,landmarks,Landmarks,vice-city,Vice City,0.6821,0.4904,sourced
+lm-l1069,"""Corkscrew Hill""",landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.247,0.403,sourced
+lm-l208,Megamundo,landmarks,Landmarks,vice-city,Vice City,0.6805,0.4908,sourced
+lm-l822,USCAS?,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4003,0.1981,sourced
+lm-l1655,Redford Gallery,businesses,Businesses,vice-city,Vice City,0.6787,0.4877,sourced
+lm-l87,Firefly Plaza,businesses,Businesses,vice-city,Vice City,0.6883,0.4879,sourced
+lm-l1878,Train Station,businesses,Businesses,grassrivers,Grassrivers,0.4341,0.5307,sourced
+lm-l2757,Zeke's Gadgets,landmarks,Landmarks,vice-city,Vice City,0.6759,0.4901,sourced
+lm-l3146,VCIA Train Station,businesses,Businesses,vice-city,Vice City,0.674,0.466,sourced
+lm-l1481,Catalan Blvd (Downtown),landmarks,Landmarks,vice-city,Vice City,0.6804,0.4903,sourced
+lm-l2612,Fleeca (Hamlet),landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l2242,SW 4th Ave,landmarks,Landmarks,vice-city,Vice City,0.6795,0.4919,sourced
+lm-l1317,Haitian-American Cultural Center,landmarks,Landmarks,vice-city,Vice City,0.6801,0.4847,sourced
+lm-l875,Hamilton Private Health Clinic,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7018,0.8908,sourced
+lm-l199,Rockridge Neighborhood Service Center,landmarks,Landmarks,vice-city,Vice City,0.6749,0.491,sourced
+lm-l224,ShoreFront (Downtown),landmarks,Landmarks,vice-city,Vice City,0.6807,0.491,sourced
+lm-l3078,Farmacia,landmarks,Landmarks,vice-city,Vice City,0.6769,0.4908,sourced
+lm-l1045,Peregrine Bay,landmarks,Landmarks,vice-city,Vice City,0.661,0.5272,sourced
+lm-l1415,Bus Stop (Ocean Beach),activities,Activities,vice-city,Vice City,0.6882,0.4884,sourced
+lm-l1946,Tequesta Retreat (Vice City),landmarks,Landmarks,vice-city,Vice City,0.681,0.4914,sourced
+lm-l2686,Turn 38,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.238,0.4,sourced
+lm-l1100,Harmon & Fenix,landmarks,Landmarks,vice-city,Vice City,0.677,0.505,sourced
+lm-l2405,Belville,landmarks,Landmarks,grassrivers,Grassrivers,0.4525,0.5593,sourced
+lm-l1383,Gellhorn Roadhouse,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.436,sourced
+lm-l3214,Construction Site (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.223,0.415,sourced
+lm-l1696,Shoreline Market,businesses,Businesses,vice-city,Vice City,0.6807,0.4902,sourced
+lm-l1442,Tank (Allied Crystal),landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l273,Air Force Radar Station,businesses,Businesses,leonida-keys,Leonida Keys,0.709,0.8861,sourced
+lm-l1507,Fake Tunnel Mural,landmarks,Landmarks,vice-city,Vice City,0.68,0.4867,sourced
+lm-l336,Cell Tower (Key Lento),landmarks,Landmarks,leonida-keys,Leonida Keys,0.71,0.849,sourced
+lm-l1157,SW 8th Ave,businesses,Businesses,vice-city,Vice City,0.6782,0.4903,sourced
+lm-l2452,Gator Plaza Sign,businesses,Businesses,vice-city,Vice City,0.686,0.49,sourced
+lm-l2517,R,landmarks,Landmarks,vice-city,Vice City,0.665,0.463,sourced
+lm-l13,Albany Hotel,businesses,Businesses,vice-city,Vice City,0.6889,0.4867,sourced
+lm-l265,Sunrise RV Park,activities,Activities,vice-city,Vice City,0.6402,0.5318,sourced
+lm-l635,Transformer Station,businesses,Businesses,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l2628,Y Vice City,activities,Activities,vice-city,Vice City,0.6884,0.4882,sourced
+lm-l2782,Buckskin,landmarks,Landmarks,vice-city,Vice City,0.63,0.492,sourced
+lm-l2444,Gator's Piano Bar?,businesses,Businesses,vice-city,Vice City,0.653,0.502,sourced
+lm-l2852,Crude Islands,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l2151,Frills & Fancy,activities,Activities,vice-city,Vice City,0.6877,0.4897,sourced
+lm-l1950,Westbrook Dr (Balsero),landmarks,Landmarks,vice-city,Vice City,0.6732,0.488,sourced
+lm-l232,Sahara HQ,landmarks,Landmarks,vice-city,Vice City,0.68,0.4922,sourced
+lm-l3081,Riverbank,businesses,Businesses,vice-city,Vice City,0.6785,0.4904,sourced
+lm-l1546,Turn 20,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2318,0.42,sourced
+lm-l377,Lifeguard Tower (Ocean Beach),landmarks,Landmarks,vice-city,Vice City,0.6881,0.4905,sourced
+lm-l2690,Turn 4C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l2043,SW 3rd Ave,landmarks,Landmarks,vice-city,Vice City,0.6589,0.5095,sourced
+lm-l1394,Devil's Tramping Ground,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4347,0.1722,sourced
+lm-l2941,Waterfall,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2496,0.4232,sourced
+lm-l399,Sugar Mill,landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l1547,Turn 32,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2939,0.4058,sourced
+lm-l2691,Turn 25,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l2445,X Hotel Parking Lot,businesses,Businesses,vice-city,Vice City,0.65,0.487,sourced
+lm-l2150,Fleeca (Ocean Beach),activities,Activities,vice-city,Vice City,0.6871,0.4908,sourced
+lm-l264,Radio Mast,landmarks,Landmarks,vice-city,Vice City,0.6444,0.516,sourced
+lm-l634,Vice River,activities,Activities,vice-city,Vice City,0.6775,0.4904,sourced
+lm-l2453,Apollo Aggregates,landmarks,Landmarks,vice-city,Vice City,0.695,0.475,sourced
+lm-l2516,Stafish Island,activities,Activities,vice-city,Vice City,0.6853,0.49,sourced
+lm-l1290,Runway,landmarks,Landmarks,vice-city,Vice City,0.668,0.4878,sourced
+lm-l1506,Bus Stop (Bayside),businesses,Businesses,vice-city,Vice City,0.6807,0.4891,sourced
+lm-l419,Simon's Tires,landmarks,Landmarks,vice-city,Vice City,0.6785,0.4852,sourced
+lm-l1382,Peewees (Southside),landmarks,Landmarks,vice-city,Vice City,0.668,0.484,sourced
+lm-l3215,Roasters Coffee Cafe,businesses,Businesses,vice-city,Vice City,0.686,0.517,sourced
+lm-l45,Seashell Hotel,businesses,Businesses,vice-city,Vice City,0.6878,0.4904,sourced
+lm-l2541,Ride & Glide,activities,Activities,vice-city,Vice City,0.6711,0.4878,sourced
+lm-l3079,Little Cuba Souvenir Shop,businesses,Businesses,vice-city,Vice City,0.6765,0.4917,sourced
+lm-l1414,Bus Stop (Vice Beach),activities,Activities,vice-city,Vice City,0.674,0.49,sourced
+lm-l2668,Turn 5,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l2687,Turn 39,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.4,sourced
+lm-l1101,Core Software,landmarks,Landmarks,vice-city,Vice City,0.683,0.484,sourced
+lm-l360,Sara's Unisex Salon,businesses,Businesses,vice-city,Vice City,0.6433,0.5235,sourced
+lm-l1551,Lake (Capri),activities,Activities,grassrivers,Grassrivers,0.434,0.5307,sourced
+lm-l3281,Conch King,landmarks,Landmarks,vice-city,Vice City,0.6789,0.4809,sourced
+lm-l1746,Cell Tower Lot,landmarks,Landmarks,vice-city,Vice City,0.695,0.484,sourced
+lm-l527,Prison (Kelly County),landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3956,0.1794,sourced
+lm-l2490,Lake (Lummox County),activities,Activities,ambrosia,Ambrosia,0.5115,0.3113,sourced
+lm-l1603,Railyard,landmarks,Landmarks,vice-city,Vice City,0.6713,0.4808,sourced
+lm-l462,? (W),landmarks,Landmarks,vice-city,Vice City,0.6807,0.4911,sourced
+lm-l3147,VCIA Metro Station,businesses,Businesses,vice-city,Vice City,0.668,0.493,sourced
+lm-l1480,Tunnel Entrance,landmarks,Landmarks,vice-city,Vice City,0.6825,0.4906,sourced
+lm-l3002,Peewees (Rockridge),landmarks,Landmarks,vice-city,Vice City,0.71,0.502,sourced
+lm-l2613,Cash...,landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l1341,Canyon,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2493,0.4271,sourced
+lm-l120,Vice Beach Marina,businesses,Businesses,vice-city,Vice City,0.6867,0.491,sourced
+lm-l3239,Billie Bob's,landmarks,Landmarks,vice-city,Vice City,0.662,0.496,sourced
+lm-l1204,Thompson Ave,activities,Activities,vice-city,Vice City,0.6877,0.4893,sourced
+lm-l1654,Parking Garage (Downtown),businesses,Businesses,vice-city,Vice City,0.6797,0.4905,sourced
+lm-l86,Fence,businesses,Businesses,vice-city,Vice City,0.6883,0.488,sourced
+lm-l2428,G. Hanson,landmarks,Landmarks,vice-city,Vice City,0.6708,0.4875,sourced
+lm-l1087,Container Crane (3),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2505,0.4336,sourced
+lm-l1984,Port,activities,Activities,mount-kalaga,Mount Kalaga,0.4061,0.1886,sourced
+lm-l2351,Partytown USA,landmarks,Landmarks,vice-city,Vice City,0.6786,0.49,sourced
+lm-l2701,Turn 5B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.22,0.421,sourced
+lm-l1068,Bobcat Key,landmarks,Landmarks,grassrivers,Grassrivers,0.45,0.5696,sourced
+lm-l566,Harborside Ave,landmarks,Landmarks,vice-city,Vice City,0.6861,0.4893,sourced
+lm-l1357,Fuzzard Drain Canal,landmarks,Landmarks,vice-city,Vice City,0.671,0.508,sourced
+lm-l835,Giant Fish Building,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4251,0.1505,sourced
+lm-l1091,Ammu-Nation?,landmarks,Landmarks,vice-city,Vice City,0.689,0.493,sourced
+lm-l1750,Church (Southside),landmarks,Landmarks,vice-city,Vice City,0.653,0.502,sourced
+lm-l1615,Welcome Sign,landmarks,Landmarks,grassrivers,Grassrivers,0.4411,0.564,sourced
+lm-l2193,Pharaoh,activities,Activities,vice-city,Vice City,0.692,0.502,sourced
+lm-l2310,Westbrook Dr (Salton),landmarks,Landmarks,vice-city,Vice City,0.6723,0.4885,sourced
+lm-l2672,Turn 11,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l2737,Train Bridge (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.538,0.316,sourced
+lm-l403,W. Blanco's Cuban Foods,landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.34,sourced
+lm-l1662,Stockyard (Vice CIty),landmarks,Landmarks,vice-city,Vice City,0.679,0.4879,sourced
+lm-l1377,Piano,landmarks,Landmarks,vice-city,Vice City,0.684,0.4804,sourced
+lm-l1459,Catalan Bay,landmarks,Landmarks,vice-city,Vice City,0.6829,0.4854,sourced
+lm-l1009,Pawn Shop,businesses,Businesses,vice-city,Vice City,0.692,0.484,sourced
+lm-l2760,Hospital (Rockridge),businesses,Businesses,vice-city,Vice City,0.6778,0.489,sourced
+lm-l2019,Whiz (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l1320,Liquor Store,businesses,Businesses,vice-city,Vice City,0.686,0.46,sourced
+lm-l511,Hoodwinks Bar,businesses,Businesses,vice-city,Vice City,0.6788,0.4903,sourced
+lm-l1859,Turn 27,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l2326,Parking Lot (Downtown),landmarks,Landmarks,vice-city,Vice City,0.6805,0.4906,sourced
+lm-l1789,Eye & Dry,activities,Activities,vice-city,Vice City,0.6879,0.4865,sourced
+lm-l507,? (N) (Peacock Bay),landmarks,Landmarks,vice-city,Vice City,0.6742,0.4955,sourced
+lm-l1336,Bridge (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.5442,0.3393,sourced
+lm-l2664,Turn 6B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2917,0.3952,sourced
+lm-l679,Gas Station (Stockyard),businesses,Businesses,vice-city,Vice City,0.6804,0.4868,sourced
+lm-l1418,Bus Stop (Rockridge),landmarks,Landmarks,vice-city,Vice City,0.692,0.481,sourced
+lm-l383,Pegassi Residences West Tower,landmarks,Landmarks,vice-city,Vice City,0.6893,0.472,sourced
+lm-l229,Vice Tower?,landmarks,Landmarks,vice-city,Vice City,0.6802,0.4915,sourced
+lm-l696,Container Crane #2,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l3219,Gate Building,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3957,0.1906,sourced
+lm-l946,Pier (Port Gellhorn),businesses,Businesses,port-gellhorn,Port Gellhorn,0.2489,0.4299,sourced
+lm-l803,Water Tower (Port Gellhorn),activities,Activities,port-gellhorn,Port Gellhorn,0.2492,0.4264,sourced
+lm-l49,Atlantis Hotel,businesses,Businesses,vice-city,Vice City,0.6878,0.4904,sourced
+lm-l747,Temple Park,activities,Activities,vice-city,Vice City,0.6794,0.4915,sourced
+lm-l317,Bocamar Bridge,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2504,0.4341,sourced
+lm-l1875,Bridge (Rialto Islands),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7469,0.8465,sourced
+lm-l1930,Stage,activities,Activities,vice-city,Vice City,0.6432,0.5235,sourced
+lm-l602,Vice Pass,businesses,Businesses,leonida-keys,Leonida Keys,0.7462,0.8465,sourced
+lm-l252,? (S) (Peacock Bay),landmarks,Landmarks,vice-city,Vice City,0.6742,0.4955,sourced
+lm-l2536,Goliath,landmarks,Landmarks,vice-city,Vice City,0.6566,0.4798,sourced
+lm-l32,Hotel Dixon,businesses,Businesses,vice-city,Vice City,0.6879,0.4899,sourced
+lm-l194,7071 Warren Thacker Manor,landmarks,Landmarks,vice-city,Vice City,0.6767,0.49,sourced
+lm-l2189,Lickety Split,activities,Activities,vice-city,Vice City,0.6868,0.489,sourced
+lm-l2473,Bridge (Vice City),landmarks,Landmarks,vice-city,Vice City,0.6788,0.4907,sourced
+lm-l1822,Zephyr Islands,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2503,0.4341,sourced
+lm-l1571,Church (Hamlet),landmarks,Landmarks,vice-city,Vice City,0.6585,0.5085,sourced
+lm-l710,Break Inn (Downtown),businesses,Businesses,vice-city,Vice City,0.6804,0.4904,sourced
+lm-l1064,Capri City Jackals Stadium,businesses,Businesses,grassrivers,Grassrivers,0.4542,0.5406,sourced
+lm-l205,Arcadia Towers (N),landmarks,Landmarks,vice-city,Vice City,0.6805,0.4905,sourced
+lm-l2424,Gas Station (Salton),businesses,Businesses,vice-city,Vice City,0.665,0.496,sourced
+lm-l3235,Vice Decor District,landmarks,Landmarks,vice-city,Vice City,0.68,0.4867,sourced
+lm-l706,Arcadia Towers (S),landmarks,Landmarks,vice-city,Vice City,0.6804,0.4905,sourced
+lm-l1072,Lombank (Vice Beach),businesses,Businesses,vice-city,Vice City,0.6865,0.4886,sourced
+lm-l2824,El Rincón Notorio,landmarks,Landmarks,vice-city,Vice City,0.6766,0.4917,sourced
+lm-l3389,Bridge (Grassrivers),landmarks,Landmarks,grassrivers,Grassrivers,0.432,0.58,sourced
+lm-l301,Radio Tower (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.43,sourced
+lm-l244,SW 7th Ave,landmarks,Landmarks,vice-city,Vice City,0.6783,0.4902,sourced
+lm-l1025,Parking Garage (Ocean Beach),businesses,Businesses,vice-city,Vice City,0.6867,0.489,sourced
+lm-l2609,Binco,landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l3331,Bridge (Lummox County),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.25,0.4229,sourced
+lm-l2035,The Anderson,activities,Activities,vice-city,Vice City,0.6871,0.4908,sourced
+lm-l881,Fuzzard Power Station (2),businesses,Businesses,vice-city,Vice City,0.6621,0.5274,sourced
+lm-l2936,Parking Lot (Key Lento),landmarks,Landmarks,leonida-keys,Leonida Keys,0.758,0.885,sourced
+lm-l1619,Xero Gas Station (Capri),businesses,Businesses,grassrivers,Grassrivers,0.4549,0.5409,sourced
+lm-l478,Glamour Clothing,landmarks,Landmarks,vice-city,Vice City,0.6786,0.488,sourced
+lm-l182,Gemini Tower,landmarks,Landmarks,vice-city,Vice City,0.6807,0.4889,sourced
+lm-l2747,Little Gems Jewellery,landmarks,Landmarks,vice-city,Vice City,0.675,0.4911,sourced
+lm-l1868,Lulu,activities,Activities,vice-city,Vice City,0.6877,0.4865,sourced
+lm-l1491,PTT YOUNGIN$ Illegal Goods Store,businesses,Businesses,vice-city,Vice City,0.674,0.499,sourced
+lm-l1757,Calderone Ave,landmarks,Landmarks,vice-city,Vice City,0.6589,0.5096,sourced
+lm-l536,Factory?,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.4301,sourced
+lm-l2897,Turn 19,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l218,VCIA Metro Mover Station,businesses,Businesses,vice-city,Vice City,0.6714,0.4883,sourced
+lm-l1429,Gellhorn Roadhouse Sign,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.271,0.448,sourced
+lm-l832,Ambrosia Police Department,businesses,Businesses,ambrosia,Ambrosia,0.4949,0.3283,sourced
+lm-l1350,River (Kelly County),activities,Activities,ambrosia,Ambrosia,0.5114,0.3389,sourced
+lm-l131,Pegassi Residences North Tower,landmarks,Landmarks,vice-city,Vice City,0.6805,0.4911,sourced
+lm-l3228,Mammacita's,landmarks,Landmarks,vice-city,Vice City,0.6806,0.4909,sourced
+lm-l977,Lake (Crosstown),activities,Activities,vice-city,Vice City,0.6783,0.4891,sourced
+lm-l1829,Casino (Buckskin),businesses,Businesses,vice-city,Vice City,0.6423,0.4919,sourced
+lm-l2706,Turn 23,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.226,0.454,sourced
+lm-l1080,SERA,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4175,0.1955,sourced
+lm-l3117,Bus Stop (Southside),landmarks,Landmarks,vice-city,Vice City,0.701,0.505,sourced
+lm-l3402,Tennis Courts,landmarks,Landmarks,vice-city,Vice City,0.682,0.4903,sourced
+lm-l3052,NW 16th St,landmarks,Landmarks,vice-city,Vice City,0.6731,0.4857,sourced
+lm-l127,Tennis Stadium,businesses,Businesses,leonida-keys,Leonida Keys,0.7467,0.8495,sourced
+lm-l1716,We Have Shoes,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.262,0.439,sourced
+lm-l824,Shoreline Park?,activities,Activities,vice-city,Vice City,0.6808,0.4906,sourced
+lm-l2585,Ficroth Capital Garage,businesses,Businesses,vice-city,Vice City,0.6801,0.4923,sourced
+lm-l432,Port Vice City Tunnel,landmarks,Landmarks,vice-city,Vice City,0.6825,0.4906,sourced
+lm-l2301,Café Coyote,landmarks,Landmarks,vice-city,Vice City,0.6777,0.4917,sourced
+lm-l259,Te Invito,landmarks,Landmarks,vice-city,Vice City,0.6433,0.5236,sourced
+lm-l39,Seven Seas Seafood,businesses,Businesses,vice-city,Vice City,0.6879,0.4901,sourced
+lm-l1311,Canal (Vice Beach),activities,Activities,vice-city,Vice City,0.6872,0.4884,sourced
+lm-l465,Lake (Vice-Dale County),activities,Activities,vice-city,Vice City,0.665,0.496,sourced
+lm-l1604,Vice City Casino Racetrack,businesses,Businesses,vice-city,Vice City,0.6716,0.4905,sourced
+lm-l3269,Brian's Marina Boat Racks,businesses,Businesses,leonida-keys,Leonida Keys,0.74,0.87,sourced
+lm-l2478,Complete Tools,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.253,0.448,sourced
+lm-l222,Piker Financial Center,landmarks,Landmarks,vice-city,Vice City,0.6806,0.491,sourced
+lm-l1043,Wholesale Furniture Outlet,landmarks,Landmarks,vice-city,Vice City,0.6783,0.4835,sourced
+lm-l1106,Wet & Wild Pet Store,businesses,Businesses,port-gellhorn,Port Gellhorn,0.262,0.448,sourced
+lm-l1556,Gulf of Leonida,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2468,0.4377,sourced
+lm-l2680,Turn 4,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.262,0.445,sourced
+lm-l42,Parsons Hotel?,businesses,Businesses,vice-city,Vice City,0.6878,0.4903,sourced
+lm-l3357,Turn 6C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.265,0.406,sourced
+lm-l625,Grassrivers Visitor Center,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7253,0.8701,sourced
+lm-l2454,Lake (Balsero),activities,Activities,vice-city,Vice City,0.6741,0.4866,sourced
+lm-l3245,Docks,landmarks,Landmarks,vice-city,Vice City,0.6718,0.488,sourced
+lm-l449,What's Cooking,landmarks,Landmarks,vice-city,Vice City,0.6797,0.4894,sourced
+lm-l2784,Interchange (Kelly County),landmarks,Landmarks,grassrivers,Grassrivers,0.4107,0.5292,sourced
+lm-l263,Sewage Treatment Plant,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3956,0.1906,sourced
+lm-l326,Brian's Boat Works & Marina,businesses,Businesses,leonida-keys,Leonida Keys,0.74,0.87,sourced
+lm-l2229,Oceanside Style,landmarks,Landmarks,vice-city,Vice City,0.662,0.478,sourced
+lm-l2679,Turn 3,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.244,0.415,sourced
+lm-l2696,Turn 33,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2896,0.4022,sourced
+lm-l1540,Big House,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4897,sourced
+lm-l371,Treasured Trash,landmarks,Landmarks,vice-city,Vice City,0.6432,0.5237,sourced
+lm-l408,Jeudy's Food Depot,landmarks,Landmarks,vice-city,Vice City,0.6735,0.4809,sourced
+lm-l1669,Bean Machine (Crosstown),landmarks,Landmarks,vice-city,Vice City,0.6804,0.4888,sourced
+lm-l2100,Bite (Hamlet),landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l490,Going Spare,landmarks,Landmarks,vice-city,Vice City,0.63,0.44,sourced
+lm-l185,The Sumerian,landmarks,Landmarks,vice-city,Vice City,0.6807,0.489,sourced
+lm-l2198,Train Bridge (Leonida),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2501,0.4297,sourced
+lm-l306,Taco Bomb,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3965,0.19,sourced
+lm-l1022,Cabeça St,activities,Activities,vice-city,Vice City,0.687,0.4893,sourced
+lm-l1472,National Coast Guard,activities,Activities,vice-city,Vice City,0.686,0.4911,sourced
+lm-l613,Metro Station (Crosstown),businesses,Businesses,vice-city,Vice City,0.6799,0.4891,sourced
+lm-l1188,Gas Station (Mariana County),businesses,Businesses,vice-city,Vice City,0.6775,0.4908,sourced
+lm-l1560,Airfield (Lummox County),businesses,Businesses,port-gellhorn,Port Gellhorn,0.2495,0.4227,sourced
+lm-l644,The Amalfi,businesses,Businesses,vice-city,Vice City,0.688,0.4892,sourced
+lm-l2659,Train Bridge (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2508,0.4298,sourced
+lm-l982,Cafe Carraway,businesses,Businesses,vice-city,Vice City,0.6798,0.4917,sourced
+lm-l828,Radar Tower,businesses,Businesses,leonida-keys,Leonida Keys,0.7038,0.8903,sourced
+lm-l3398,Jacob's Tavern Bar,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2494,0.4255,sourced
+lm-l2423,Banner Parking Garage,businesses,Businesses,vice-city,Vice City,0.6714,0.4885,sourced
+lm-l347,Burnout Scooters,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.4301,sourced
+lm-l1825,Corsair Key,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7421,0.8655,sourced
+lm-l1960,SW 4th St (Tequesta),landmarks,Landmarks,vice-city,Vice City,0.6795,0.4888,sourced
+lm-l1063,Underwater Ruins,landmarks,Landmarks,vice-city,Vice City,0.6931,0.4977,sourced
+lm-l1599,Marlin Motors,landmarks,Landmarks,vice-city,Vice City,0.6604,0.5073,sourced
+lm-l35,Paramour Hotel,businesses,Businesses,vice-city,Vice City,0.6879,0.49,sourced
+lm-l2161,Pharmacy,activities,Activities,vice-city,Vice City,0.6866,0.49,sourced
+lm-l890,Motorcycle Memorial,activities,Activities,mount-kalaga,Mount Kalaga,0.4127,0.1934,sourced
+lm-l1608,Motorcycle Customs Shop?,businesses,Businesses,vice-city,Vice City,0.6581,0.51,sourced
+lm-l193,Venture Apts South,landmarks,Landmarks,vice-city,Vice City,0.6768,0.4899,sourced
+lm-l310,Hank's Waffles,activities,Activities,port-gellhorn,Port Gellhorn,0.2489,0.43,sourced
+lm-l255,"""Stiltsville Bridge""",landmarks,Landmarks,vice-city,Vice City,0.6808,0.4938,sourced
+lm-l1937,NE 4th Ave,landmarks,Landmarks,vice-city,Vice City,0.6791,0.4888,sourced
+lm-l1673,Orion K?,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4887,sourced
+lm-l1366,Parking Lot (Ocean Beach),activities,Activities,vice-city,Vice City,0.6884,0.4883,sourced
+lm-l804,Water Tank,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.241,0.403,sourced
+lm-l3422,Little Hardin Island,businesses,Businesses,vice-city,Vice City,0.6347,0.44,sourced
+lm-l2233,City Picnic Market,businesses,Businesses,vice-city,Vice City,0.707,0.487,sourced
+lm-l2376,The Flamingrill,landmarks,Landmarks,vice-city,Vice City,0.678,0.4883,sourced
+lm-l691,Container Crane #7,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l445,Presidential Bunker,businesses,Businesses,vice-city,Vice City,0.6988,0.44,sourced
+lm-l1018,"""Blue House""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.761,0.849,sourced
+lm-l629,Delights,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.4301,sourced
+lm-l280,Water Tower (Kelly County),landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3956,0.1794,sourced
+lm-l3208,Construction Site (Tequesta),landmarks,Landmarks,vice-city,Vice City,0.6801,0.4913,sourced
+lm-l2675,Turn 14,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.271,0.412,sourced
+lm-l1409,Bridge (Watson Bay),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4316,sourced
+lm-l687,Chariot Empire Suites,businesses,Businesses,vice-city,Vice City,0.6805,0.4905,sourced
+lm-l3121,Bus Stop (Crosstown),landmarks,Landmarks,vice-city,Vice City,0.653,0.478,sourced
+lm-l2360,Mami's Grocery Market,businesses,Businesses,vice-city,Vice City,0.6588,0.5096,sourced
+lm-l2674,Turn 13,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l393,Bite House,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l2731,Vercetti Estate,activities,Activities,vice-city,Vice City,0.6852,0.4901,sourced
+lm-l2361,A1 Fashions,landmarks,Landmarks,vice-city,Vice City,0.6588,0.5096,sourced
+lm-l540,Tequesta Retreat Bridge,landmarks,Landmarks,vice-city,Vice City,0.6806,0.4917,sourced
+lm-l281,Gellhorn International Raceway,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l2265,Fufu,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4866,sourced
+lm-l1019,"""White House""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.737,0.849,sourced
+lm-l1275,Autograph,landmarks,Landmarks,vice-city,Vice City,0.6674,0.4873,sourced
+lm-l18,Sachem,landmarks,Landmarks,vice-city,Vice City,0.6882,0.489,sourced
+lm-l501,Lombank (Tequesta),businesses,Businesses,vice-city,Vice City,0.68,0.4921,sourced
+lm-l151,Redwood Suites,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7462,0.8465,sourced
+lm-l2232,Electrotoke,activities,Activities,vice-city,Vice City,0.6878,0.489,sourced
+lm-l2398,La Perle,businesses,Businesses,vice-city,Vice City,0.6756,0.4893,sourced
+lm-l2377,Carnicero,landmarks,Landmarks,vice-city,Vice City,0.678,0.4885,sourced
+lm-l690,Container Crane #8,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l1222,Mid,activities,Activities,vice-city,Vice City,0.6879,0.489,sourced
+lm-l1672,Allure Resort Services,businesses,Businesses,vice-city,Vice City,0.6804,0.4887,sourced
+lm-l556,The Vault,businesses,Businesses,vice-city,Vice City,0.6799,0.4896,sourced
+lm-l805,Soccer Field,activities,Activities,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l311,Tank (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.43,sourced
+lm-l1936,Catalan Blvd (Bayside),landmarks,Landmarks,vice-city,Vice City,0.6803,0.4882,sourced
+lm-l2530,Belpoint,businesses,Businesses,grassrivers,Grassrivers,0.4316,0.559,sourced
+lm-l2475,Money Shift,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l3264,Peninsula,activities,Activities,port-gellhorn,Port Gellhorn,0.2482,0.4297,sourced
+lm-l1609,Mattress Madness,landmarks,Landmarks,vice-city,Vice City,0.6582,0.5101,sourced
+lm-l192,Venture Apts North,landmarks,Landmarks,vice-city,Vice City,0.677,0.4887,sourced
+lm-l346,Lake (Vice City),activities,Activities,vice-city,Vice City,0.665,0.505,sourced
+lm-l1062,Trailer Park,activities,Activities,port-gellhorn,Port Gellhorn,0.249,0.4304,sourced
+lm-l1598,Gator Plaza,businesses,Businesses,vice-city,Vice City,0.6556,0.4892,sourced
+lm-l1432,Parking Lot (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l983,Akery Inn,businesses,Businesses,mount-kalaga,Mount Kalaga,0.406,0.1883,sourced
+lm-l829,Hangar,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7035,0.8905,sourced
+lm-l3399,Reynold's Pharmacy,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2494,0.4255,sourced
+lm-l1561,Watson Bay Airport,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l1074,Phil's Ammu-Nation,landmarks,Landmarks,vice-city,Vice City,0.6556,0.4892,sourced
+lm-l2822,Little Cuba (Vice Beach),landmarks,Landmarks,vice-city,Vice City,0.6766,0.4916,sourced
+lm-l307,Starlet Motel Sign,businesses,Businesses,mount-kalaga,Mount Kalaga,0.3995,0.1886,sourced
+lm-l1536,Arrow Gas Station (Route 1),businesses,Businesses,leonida-keys,Leonida Keys,0.7407,0.8689,sourced
+lm-l22,Bayfront Heights,activities,Activities,vice-city,Vice City,0.6881,0.4892,sourced
+lm-l491,Shunters,landmarks,Landmarks,vice-city,Vice City,0.63,0.44,sourced
+lm-l887,Parking Lot (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.5204,0.3398,sourced
+lm-l2199,Tequesta Retreat,businesses,Businesses,vice-city,Vice City,0.6809,0.4917,sourced
+lm-l1668,84,landmarks,Landmarks,vice-city,Vice City,0.6789,0.4879,sourced
+lm-l1392,Malibu Club,businesses,Businesses,vice-city,Vice City,0.65,0.478,sourced
+lm-l2678,Turn 7,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.256,0.43,sourced
+lm-l2697,Turn 35,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2896,0.4022,sourced
+lm-l1541,Gas Station (Port Gellhorn),businesses,Businesses,port-gellhorn,Port Gellhorn,0.223,0.412,sourced
+lm-l370,Kurt's Barber Shop,businesses,Businesses,vice-city,Vice City,0.6433,0.5231,sourced
+lm-l3252,Hamlet Police Department?,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4034,0.1897,sourced
+lm-l2506,Go Postal,landmarks,Landmarks,vice-city,Vice City,0.675,0.4912,sourced
+lm-l2785,Fire Station,businesses,Businesses,vice-city,Vice City,0.678,0.4869,sourced
+lm-l262,Hamlet Water Tower,landmarks,Landmarks,vice-city,Vice City,0.6448,0.5232,sourced
+lm-l1453,VYB,businesses,Businesses,vice-city,Vice City,0.689,0.486,sourced
+lm-l274,Blimp,landmarks,Landmarks,leonida-keys,Leonida Keys,0.709,0.8861,sourced
+lm-l2639,Vickery Dr,landmarks,Landmarks,vice-city,Vice City,0.6861,0.4886,sourced
+lm-l1500,Catalan Bay (Vice-Dale County),landmarks,Landmarks,vice-city,Vice City,0.6748,0.5125,sourced
+lm-l761,Donovan Roeder Jr. Community Center,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7411,0.8531,sourced
+lm-l1384,Hog Star?,landmarks,Landmarks,ambrosia,Ambrosia,0.544,0.349,sourced
+lm-l3213,Parking Lot (Tequesta),landmarks,Landmarks,vice-city,Vice City,0.698,0.463,sourced
+lm-l3356,Turn 8B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.262,0.409,sourced
+lm-l223,Gico? Huxley Hotels,businesses,Businesses,vice-city,Vice City,0.6804,0.4912,sourced
+lm-l1412,Bus Stop (Washington Beach),activities,Activities,vice-city,Vice City,0.6883,0.488,sourced
+lm-l1107,Game Horde,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.274,0.43,sourced
+lm-l1557,Atlantic Ocean,landmarks,Landmarks,leonida-keys,Leonida Keys,0.79,0.92,sourced
+lm-l2681,Turn 41,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l1310,Canal (Leonard County),landmarks,Landmarks,vice-city,Vice City,0.6469,0.44,sourced
+lm-l1605,Schlott Construction (Southside),landmarks,Landmarks,vice-city,Vice City,0.6581,0.51,sourced
+lm-l2029,Train Station?,businesses,Businesses,vice-city,Vice City,0.659,0.493,sourced
+lm-l2183,Ocean Beach Pharmacy,activities,Activities,vice-city,Vice City,0.6878,0.489,sourced
+lm-l2615,Paperclips,landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l2245,Gas Station (Buckskin),businesses,Businesses,vice-city,Vice City,0.6429,0.4922,sourced
+lm-l258,Rattlers,landmarks,Landmarks,vice-city,Vice City,0.6433,0.5234,sourced
+lm-l1039,Wonder Whale?,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7352,0.8767,sourced
+lm-l608,Xero Gas Station (Rockridge),businesses,Businesses,vice-city,Vice City,0.676,0.4901,sourced
+lm-l1469,Tennis Court (Ocean Beach),landmarks,Landmarks,vice-city,Vice City,0.6866,0.4909,sourced
+lm-l1717,Tobacco,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.268,0.436,sourced
+lm-l825,Bridge (Key Lento),activities,Activities,leonida-keys,Leonida Keys,0.7405,0.8687,sourced
+lm-l2584,Go Postal Office,businesses,Businesses,vice-city,Vice City,0.6866,0.4891,sourced
+lm-l1202,Southwind,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7282,0.8817,sourced
+lm-l2707,Turn 24,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.262,0.415,sourced
+lm-l1081,Stovepipes?,landmarks,Landmarks,ambrosia,Ambrosia,0.5203,0.34,sourced
+lm-l1594,Baller Dealership,businesses,Businesses,vice-city,Vice City,0.66,0.508,sourced
+lm-l833,Abandoned Observatory,activities,Activities,port-gellhorn,Port Gellhorn,0.2486,0.4297,sourced
+lm-l130,Pegassi Residences South Tower,landmarks,Landmarks,vice-city,Vice City,0.6891,0.4748,sourced
+lm-l537,Church (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l921,Office Building,businesses,Businesses,ambrosia,Ambrosia,0.5199,0.3404,sourced
+lm-l2896,Turn 21,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2318,0.42,sourced
+lm-l472,Waste Transfer Services,landmarks,Landmarks,ambrosia,Ambrosia,0.5399,0.3572,sourced
+lm-l188,The Celtica Hotel?,businesses,Businesses,vice-city,Vice City,0.6803,0.4896,sourced
+lm-l1869,Ajax Gym,businesses,Businesses,vice-city,Vice City,0.6877,0.4865,sourced
+lm-l1886,Parking Lot (Gloriana Key),landmarks,Landmarks,vice-city,Vice City,0.6847,0.4979,sourced
+lm-l2552,Electric Substation,businesses,Businesses,vice-city,Vice City,0.659,0.503,sourced
+lm-l1391,Airfield (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.5169,0.3404,sourced
+lm-l959,Welcome to Port Gellhorn Sign,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.238,0.442,sourced
+lm-l1112,Guard Booth (Allied Crystal),landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l689,Container Crane #9,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l2694,Turn 29,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l236,Catalan Blvd (Tequesta),businesses,Businesses,vice-city,Vice City,0.68,0.4924,sourced
+lm-l1779,Emerald Springs,activities,Activities,mount-kalaga,Mount Kalaga,0.3897,0.1946,sourced
+lm-l2155,Lombank (Ocean Beach),businesses,Businesses,vice-city,Vice City,0.6878,0.489,sourced
+lm-l2505,Vicycle,landmarks,Landmarks,vice-city,Vice City,0.6781,0.4908,sourced
+lm-l1846,Turn 34,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2896,0.4022,sourced
+lm-l324,Hotel Valetta,businesses,Businesses,vice-city,Vice City,0.6883,0.4879,sourced
+lm-l1000,Lake Leonida,activities,Activities,vice-city,Vice City,0.63,0.44,sourced
+lm-l631,Spaceship House,activities,Activities,port-gellhorn,Port Gellhorn,0.2482,0.4298,sourced
+lm-l17,Crystal,activities,Activities,vice-city,Vice City,0.6881,0.4889,sourced
+lm-l2905,The Captain's Cabins,landmarks,Landmarks,leonida-keys,Leonida Keys,0.761,0.882,sourced
+lm-l298,Pawn & Gun,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4302,sourced
+lm-l332,Wonder Whale,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7352,0.8767,sourced
+lm-l277,Guard Booth (Mariana County),businesses,Businesses,leonida-keys,Leonida Keys,0.7038,0.8902,sourced
+lm-l3355,Turn 7B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.271,0.454,sourced
+lm-l40,Boardwalk,businesses,Businesses,vice-city,Vice City,0.6879,0.4901,sourced
+lm-l2682,Turn 42,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l1104,Pawn Shop?,businesses,Businesses,port-gellhorn,Port Gellhorn,0.232,0.415,sourced
+lm-l1554,Airfield (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.259,0.403,sourced
+lm-l1743,Church (Salton),landmarks,Landmarks,vice-city,Vice City,0.6786,0.4903,sourced
+lm-l1313,Bridge (Vice Beach),landmarks,Landmarks,vice-city,Vice City,0.6887,0.4772,sourced
+lm-l172,Jack of Hearts,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4885,sourced
+lm-l2495,Bus Loop?,landmarks,Landmarks,vice-city,Vice City,0.662,0.517,sourced
+lm-l2616,Construction Site (Peregrine Bay),landmarks,Landmarks,vice-city,Vice City,0.698,0.505,sourced
+lm-l2753,North Beaches,businesses,Businesses,vice-city,Vice City,0.6993,0.44,sourced
+lm-l3396,The Old Mill Barber Shop,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2494,0.4255,sourced
+lm-l3115,Catalan Blvd (Vice Decor District),landmarks,Landmarks,vice-city,Vice City,0.677,0.502,sourced
+lm-l2704,Turn 10C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.229,0.454,sourced
+lm-l2591,Bus Station,businesses,Businesses,vice-city,Vice City,0.677,0.499,sourced
+lm-l830,Weather Radar,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7034,0.8898,sourced
+lm-l3046,Parking Lot (Southside),landmarks,Landmarks,vice-city,Vice City,0.65,0.466,sourced
+lm-l3416,The Atoll Bar & Grill,businesses,Businesses,vice-city,Vice City,0.698,0.493,sourced
+lm-l3103,Lake (Belville),activities,Activities,grassrivers,Grassrivers,0.455,0.5597,sourced
+lm-l1240,Whiz (Hamlet),landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l2895,Turn 17,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2923,0.3983,sourced
+lm-l1610,Vapid Dealership,businesses,Businesses,vice-city,Vice City,0.6577,0.5124,sourced
+lm-l888,Radio Tower (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.34,sourced
+lm-l164,Water Tower (Leonard County),landmarks,Landmarks,grassrivers,Grassrivers,0.4535,0.5411,sourced
+lm-l2600,Key Lento Sign,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7407,0.869,sourced
+lm-l308,Alpha Gas Station,businesses,Businesses,mount-kalaga,Mount Kalaga,0.3965,0.19,sourced
+lm-l2745,Diangelo,landmarks,Landmarks,vice-city,Vice City,0.6797,0.4909,sourced
+lm-l2698,Turn 36,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2896,0.4022,sourced
+lm-l685,Construction Site (Downtown),landmarks,Landmarks,vice-city,Vice City,0.6795,0.4902,sourced
+lm-l955,Park (Port Gellhorn),activities,Activities,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l406,Xero Gas Station (Ambrosia),businesses,Businesses,ambrosia,Ambrosia,0.5202,0.34,sourced
+lm-l328,Key Lento Marina Club,businesses,Businesses,leonida-keys,Leonida Keys,0.74,0.87,sourced
+lm-l2620,Bocamar Bay,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.288,0.3895,sourced
+lm-l847,Maroon Key,landmarks,Landmarks,leonida-keys,Leonida Keys,0.709,0.8861,sourced
+lm-l902,Outdoor Movie Screen?,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.259,0.412,sourced
+lm-l1919,Turn 31,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.3,0.4131,sourced
+lm-l447,Underwater Research Station,businesses,Businesses,leonida-keys,Leonida Keys,0.7385,0.877,sourced
+lm-l1558,Leonida Straits,landmarks,Landmarks,leonida-keys,Leonida Keys,0.705,0.92,sourced
+lm-l1108,Marco Wholesale Footwear,landmarks,Landmarks,vice-city,Vice City,0.6786,0.4879,sourced
+lm-l693,Container Crane #5,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l1671,Al Dentes,landmarks,Landmarks,vice-city,Vice City,0.701,0.49,sourced
+lm-l943,Mason's Shrimp Shack,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.4301,sourced
+lm-l257,Beacon,businesses,Businesses,vice-city,Vice City,0.6432,0.5235,sourced
+lm-l1870,Papasco's,activities,Activities,vice-city,Vice City,0.688,0.4865,sourced
+lm-l3288,Arrow Gas Station (Belville),businesses,Businesses,vice-city,Vice City,0.6777,0.4813,sourced
+lm-l1061,Catalan Boulevard Bridge,landmarks,Landmarks,vice-city,Vice City,0.665,0.466,sourced
+lm-l200,Navaro Shipping Terminal,activities,Activities,vice-city,Vice City,0.673,0.4883,sourced
+lm-l345,VCIA Control Tower,landmarks,Landmarks,vice-city,Vice City,0.6662,0.4887,sourced
+lm-l2972,Nirvana Spa,landmarks,Landmarks,vice-city,Vice City,0.665,0.481,sourced
+lm-l596,Repair & Salvage,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.232,0.415,sourced
+lm-l1427,Boat Ramp (Abismo Key),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7143,0.8879,sourced
+lm-l216,Autograph Hangar 2,landmarks,Landmarks,vice-city,Vice City,0.6674,0.4873,sourced
+lm-l1562,LTF Airfield,businesses,Businesses,vice-city,Vice City,0.6691,0.5394,sourced
+lm-l1098,Bite (Rockridge),landmarks,Landmarks,vice-city,Vice City,0.689,0.502,sourced
+lm-l1,Vice Regal,landmarks,Landmarks,vice-city,Vice City,0.6889,0.4773,sourced
+lm-l1831,Dam?,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2496,0.4227,sourced
+lm-l241,International Online Unlimited,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4924,sourced
+lm-l611,Kington Hotel,businesses,Businesses,vice-city,Vice City,0.6879,0.4898,sourced
+lm-l1470,Pool (Ocean Beach),activities,Activities,vice-city,Vice City,0.6872,0.4914,sourced
+lm-l304,Starlet Motel,businesses,Businesses,mount-kalaga,Mount Kalaga,0.3973,0.1907,sourced
+lm-l2030,Vice City Casino,businesses,Businesses,vice-city,Vice City,0.6716,0.4905,sourced
+lm-l187,Sahara Arena,landmarks,Landmarks,vice-city,Vice City,0.6807,0.49,sourced
+lm-l3271,Washington Beach (Vice City),activities,Activities,vice-city,Vice City,0.6891,0.4862,sourced
+lm-l538,Port Gellhorn Train Station,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2506,0.4307,sourced
+lm-l1309,Golf Carts,activities,Activities,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l168,Construction Site (Vice Decor District),landmarks,Landmarks,vice-city,Vice City,0.6799,0.4868,sourced
+lm-l2525,Marina (Peacock Bay),businesses,Businesses,vice-city,Vice City,0.6745,0.4959,sourced
+lm-l885,Water Tower (Balsero),landmarks,Landmarks,vice-city,Vice City,0.677,0.508,sourced
+lm-l186,Galina Ballet Opera House,landmarks,Landmarks,vice-city,Vice City,0.6803,0.4893,sourced
+lm-l2898,Turn 33B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.25,0.445,sourced
+lm-l539,Vice City Pawn,businesses,Businesses,vice-city,Vice City,0.6801,0.4878,sourced
+lm-l493,Kirkwood Distribution,landmarks,Landmarks,vice-city,Vice City,0.701,0.46,sourced
+lm-l20,The Atoll,activities,Activities,vice-city,Vice City,0.688,0.4891,sourced
+lm-l240,Grand Majestic,landmarks,Landmarks,vice-city,Vice City,0.6798,0.4924,sourced
+lm-l1867,Catalyst Realty,activities,Activities,vice-city,Vice City,0.6877,0.4865,sourced
+lm-l1563,Dam,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.25,0.4229,sourced
+lm-l702,Status Auto Resort,businesses,Businesses,vice-city,Vice City,0.6802,0.4883,sourced
+lm-l1099,Bump & Grind,landmarks,Landmarks,vice-city,Vice City,0.665,0.499,sourced
+lm-l2420,Construction Site (Ocean Beach),activities,Activities,vice-city,Vice City,0.701,0.487,sourced
+lm-l2973,Royals,activities,Activities,vice-city,Vice City,0.6868,0.489,sourced
+lm-l2135,Fisher Island,landmarks,Landmarks,vice-city,Vice City,0.6866,0.4926,sourced
+lm-l981,La Cascara Motel,businesses,Businesses,port-gellhorn,Port Gellhorn,0.259,0.427,sourced
+lm-l61,? (S) (Ocean Beach),activities,Activities,vice-city,Vice City,0.6876,0.4906,sourced
+lm-l2565,Park (Vice City),activities,Activities,vice-city,Vice City,0.665,0.49,sourced
+lm-l1060,Cospace,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4892,sourced
+lm-l714,Tennis Court (Rialto Islands),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7462,0.8465,sourced
+lm-l190,NINE1NINE,landmarks,Landmarks,vice-city,Vice City,0.6798,0.4896,sourced
+lm-l36,Ocean View Hotel,businesses,Businesses,vice-city,Vice City,0.6879,0.49,sourced
+lm-l485,Goliath?,landmarks,Landmarks,vice-city,Vice City,0.6796,0.4887,sourced
+lm-l1934,Bruiser? Skate Shop,businesses,Businesses,vice-city,Vice City,0.6804,0.4886,sourced
+lm-l256,Fuzzard Power Station (N),businesses,Businesses,vice-city,Vice City,0.6621,0.5274,sourced
+lm-l313,Uncle Jack's Liquor,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l1488,Stock 305,landmarks,Landmarks,vice-city,Vice City,0.6789,0.4878,sourced
+lm-l104,Effluvia,landmarks,Landmarks,vice-city,Vice City,0.6867,0.489,sourced
+lm-l3358,Turn 7C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.4,sourced
+lm-l1670,247 Supermarket,businesses,Businesses,vice-city,Vice City,0.6804,0.4888,sourced
+lm-l692,Container Crane #6,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l2375,Rideout Customs,landmarks,Landmarks,vice-city,Vice City,0.707,0.514,sourced
+lm-l2230,Luna,activities,Activities,vice-city,Vice City,0.671,0.502,sourced
+lm-l387,Akio Hotel,businesses,Businesses,vice-city,Vice City,0.6809,0.4917,sourced
+lm-l1918,Car Wash (Leonida),landmarks,Landmarks,vice-city,Vice City,0.6792,0.4915,sourced
+lm-l283,Gas Stop,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l2764,Tennis Court (Catalan Key),landmarks,Landmarks,leonida-keys,Leonida Keys,0.746,0.864,sourced
+lm-l1373,P?,activities,Activities,vice-city,Vice City,0.6877,0.4864,sourced
+lm-l2676,Turn 15,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.232,0.442,sourced
+lm-l309,Easy Inn Motel,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2489,0.43,sourced
+lm-l2744,The Grain of Truth,landmarks,Landmarks,vice-city,Vice City,0.704,0.496,sourced
+lm-l2894,Tamarro,activities,Activities,vice-city,Vice City,0.701,0.487,sourced
+lm-l2178,Hobbs Milford (Ocean Beach),activities,Activities,vice-city,Vice City,0.6878,0.4888,sourced
+lm-l535,Refinery?,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2478,0.4291,sourced
+lm-l1646,Vice City Shopping Plaza,businesses,Businesses,vice-city,Vice City,0.6804,0.4888,sourced
+lm-l1353,Banner Hotel & Spa,businesses,Businesses,vice-city,Vice City,0.6713,0.4886,sourced
+lm-l2640,Paño Rojo,activities,Activities,vice-city,Vice City,0.6876,0.4894,sourced
+lm-l1596,Juicy Joes,landmarks,Landmarks,vice-city,Vice City,0.6582,0.51,sourced
+lm-l1129,Main Gate,activities,Activities,mount-kalaga,Mount Kalaga,0.3957,0.1906,sourced
+lm-l348,Watkins Auto Parts,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l2705,Turn 11C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.448,sourced
+lm-l431,Leaf Links Golf Club?,businesses,Businesses,vice-city,Vice City,0.6865,0.4798,sourced
+lm-l3397,Trotman's Super Market,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2494,0.4255,sourced
+lm-l827,Control Tower,businesses,Businesses,leonida-keys,Leonida Keys,0.7041,0.8907,sourced
+lm-l1892,Breakwater,landmarks,Landmarks,grassrivers,Grassrivers,0.4399,0.5654,sourced
+lm-l2181,Void,activities,Activities,vice-city,Vice City,0.6875,0.489,sourced
+lm-l1257,Tequesta Station,businesses,Businesses,vice-city,Vice City,0.668,0.511,sourced
+lm-l1742,Park (Southside),activities,Activities,vice-city,Vice City,0.6602,0.5076,sourced
+lm-l2683,Turn 1,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.427,sourced
+lm-l364,Vinylism,landmarks,Landmarks,vice-city,Vice City,0.6433,0.5234,sourced
+lm-l1105,Happy Nails,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l734,Submerged Tank,activities,Activities,vice-city,Vice City,0.6931,0.4868,sourced
+lm-l1555,Hobbs Milford (SW 4th St),landmarks,Landmarks,vice-city,Vice City,0.6878,0.4865,sourced
+lm-l221,Heath Tower,landmarks,Landmarks,vice-city,Vice City,0.6801,0.491,sourced
+lm-l1739,SW 4th St (Salton),landmarks,Landmarks,vice-city,Vice City,0.6789,0.4904,sourced
+lm-l1369,Euroform Automotive,landmarks,Landmarks,vice-city,Vice City,0.6758,0.4909,sourced
+lm-l1693,Catalan Blvd (Crosstown),landmarks,Landmarks,vice-city,Vice City,0.6804,0.4886,sourced
+lm-l41,Hotel Neptune,businesses,Businesses,vice-city,Vice City,0.6878,0.4903,sourced
+lm-l2400,Vetiver Minimarket,businesses,Businesses,vice-city,Vice City,0.68,0.485,sourced
+lm-l1017,"""Yellow House""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.719,0.894,sourced
+lm-l1781,Vice Vinyl,landmarks,Landmarks,vice-city,Vice City,0.662,0.502,sourced
+lm-l2904,Copyshop,businesses,Businesses,vice-city,Vice City,0.6797,0.4909,sourced
+lm-l2292,Excavator Parking Lot,landmarks,Landmarks,vice-city,Vice City,0.683,0.502,sourced
+lm-l1847,Turn 2,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.3,0.4227,sourced
+lm-l325,The Rusty Anchor,businesses,Businesses,leonida-keys,Leonida Keys,0.7401,0.8699,sourced
+lm-l260,LTD Gas Station,businesses,Businesses,vice-city,Vice City,0.6415,0.526,sourced
+lm-l630,Tequesta Retreat Park,activities,Activities,vice-city,Vice City,0.681,0.4918,sourced
+lm-l3196,Bus Stop (Shoreline),landmarks,Landmarks,vice-city,Vice City,0.698,0.46,sourced
+lm-l1328,Boat Ramp (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.5204,0.3398,sourced
+lm-l1797,Glazin' Glory,activities,Activities,vice-city,Vice City,0.6883,0.4865,sourced
+lm-l1113,Autograph Flight Support Building,landmarks,Landmarks,vice-city,Vice City,0.6674,0.4873,sourced
+lm-l688,Main Prison Building,landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.3957,0.1906,sourced
+lm-l2695,Turn 30,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l2553,Parking Lot (Salton),landmarks,Landmarks,vice-city,Vice City,0.689,0.511,sourced
+lm-l1548,Bridge (Capri),landmarks,Landmarks,mount-kalaga,Mount Kalaga,0.4037,0.1898,sourced
+lm-l2734,Turn 8,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.226,0.403,sourced
+lm-l2671,Turn 10,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.22,0.427,sourced
+lm-l1724,Deadzombie,landmarks,Landmarks,vice-city,Vice City,0.665,0.463,sourced
+lm-l400,Silo,landmarks,Landmarks,ambrosia,Ambrosia,0.52,0.3404,sourced
+lm-l284,Bingo Hall,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.249,0.4301,sourced
+lm-l2276,Car Park,activities,Activities,vice-city,Vice City,0.6783,0.4902,sourced
+lm-l512,Thrillbilly Mud Club,businesses,Businesses,grassrivers,Grassrivers,0.443,0.55,sourced
+lm-l1159,Pool (Starlet Motel),businesses,Businesses,port-gellhorn,Port Gellhorn,0.232,0.4168,sourced
+lm-l3021,Grandstands,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.277,0.403,sourced
+lm-l504,"""House B""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.746,0.873,sourced
+lm-l441,Vice City Arts Center Metro Station,businesses,Businesses,vice-city,Vice City,0.6805,0.4891,sourced
+lm-l2688,Turn 40,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.241,0.43,sourced
+lm-l3099,Gas Station (Vice Decor District),businesses,Businesses,vice-city,Vice City,0.6806,0.4852,sourced
+lm-l695,Container Crane #3,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l1362,Lighthouse (Catalan Key),landmarks,Landmarks,leonida-keys,Leonida Keys,0.7468,0.851,sourced
+lm-l1698,Downtown Metro Station,businesses,Businesses,vice-city,Vice City,0.6802,0.4899,sourced
+lm-l553,Xero Gas Station (Crosstown),businesses,Businesses,vice-city,Vice City,0.6801,0.4878,sourced
+lm-l1933,Josefina,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4886,sourced
+lm-l2759,Joyeria Empenos,landmarks,Landmarks,vice-city,Vice City,0.6692,0.4903,sourced
+lm-l744,Archipelago (S),landmarks,Landmarks,vice-city,Vice City,0.6806,0.4885,sourced
+lm-l3148,Metro Mover Station,businesses,Businesses,vice-city,Vice City,0.665,0.463,sourced
+lm-l197,Fleeca Field Metro Station,businesses,Businesses,vice-city,Vice City,0.653,0.463,sourced
+lm-l178,Crescent,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4911,sourced
+lm-l2165,Bean Machine (Ocean Beach),activities,Activities,vice-city,Vice City,0.6875,0.4906,sourced
+lm-l1088,Blue Crab Bar & Grill,businesses,Businesses,leonida-keys,Leonida Keys,0.7006,0.8915,sourced
+lm-l590,Ambrosia Raceway Park,activities,Activities,ambrosia,Ambrosia,0.5158,0.3396,sourced
+lm-l1421,Brian's Marina Workshop,businesses,Businesses,leonida-keys,Leonida Keys,0.74,0.87,sourced
+lm-l3109,Bus Stop (Vice Decor District),landmarks,Landmarks,vice-city,Vice City,0.68,0.481,sourced
+lm-l2431,Hangars,landmarks,Landmarks,vice-city,Vice City,0.689,0.49,sourced
+lm-l569,Clarissa Hotel,businesses,Businesses,vice-city,Vice City,0.6808,0.491,sourced
+lm-l990,Canal (Port Gellhorn),activities,Activities,port-gellhorn,Port Gellhorn,0.249,0.4304,sourced
+lm-l302,Port Gellhorn Smokestack,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2492,0.424,sourced
+lm-l2036,Palometa Seafood Restaurant,businesses,Businesses,vice-city,Vice City,0.6873,0.4912,sourced
+lm-l882,Fuzzard Power Station (3),businesses,Businesses,vice-city,Vice City,0.6621,0.5274,sourced
+lm-l2173,Electrical,activities,Activities,vice-city,Vice City,0.6874,0.489,sourced
+lm-l1378,162°S,landmarks,Landmarks,vice-city,Vice City,0.6788,0.4877,sourced
+lm-l1728,Pier (Capri),businesses,Businesses,grassrivers,Grassrivers,0.4397,0.5647,sourced
+lm-l549,Evergreen Mall Sign,businesses,Businesses,port-gellhorn,Port Gellhorn,0.2317,0.4182,sourced
+lm-l50,Seahorse,activities,Activities,vice-city,Vice City,0.6878,0.4905,sourced
+lm-l2942,Lighthouse (Lummox County),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2491,0.4257,sourced
+lm-l2692,Turn 26,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l1817,Sandbars,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2503,0.4332,sourced
+lm-l1544,Turn 16,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2923,0.3983,sourced
+lm-l3129,Park (Little Cuba),activities,Activities,vice-city,Vice City,0.6765,0.4917,sourced
+lm-l3312,Bus Stop (Ocean Beach) 2,landmarks,Landmarks,vice-city,Vice City,0.683,0.496,sourced
+lm-l1790,Diamond Dawgs,landmarks,Landmarks,vice-city,Vice City,0.688,0.4865,sourced
+lm-l2446,Covered Parking Lot,landmarks,Landmarks,vice-city,Vice City,0.6711,0.4874,sourced
+lm-l322,Dry Dock,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.235,0.457,sourced
+lm-l1006,Tisha-Wocka Flea Market,businesses,Businesses,vice-city,Vice City,0.6704,0.4777,sourced
+lm-l1339,Star Island Bridge,activities,Activities,vice-city,Vice City,0.6853,0.4908,sourced
+lm-l1293,Vice Beach Police Department,activities,Activities,vice-city,Vice City,0.6876,0.4899,sourced
+lm-l1786,Fleeca (SW 4th St),businesses,Businesses,vice-city,Vice City,0.688,0.4864,sourced
+lm-l3353,Balsero,landmarks,Landmarks,vice-city,Vice City,0.671,0.4828,sourced
+lm-l1381,Chip's Body Shop,businesses,Businesses,leonida-keys,Leonida Keys,0.722,0.873,sourced
+lm-l1102,ShoreFront (Rockridge),landmarks,Landmarks,vice-city,Vice City,0.63,0.44,sourced
+lm-l363,Burger Shot,landmarks,Landmarks,vice-city,Vice City,0.6433,0.5235,sourced
+lm-l2684,Turn 22,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.244,0.418,sourced
+lm-l1745,Chacey's,landmarks,Landmarks,vice-city,Vice City,0.689,0.466,sourced
+lm-l524,Buckme,landmarks,Landmarks,vice-city,Vice City,0.6805,0.4906,sourced
+lm-l1315,Marbles,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7407,0.8689,sourced
+lm-l174,Park (Crosstown),activities,Activities,vice-city,Vice City,0.6805,0.4887,sourced
+lm-l2610,Goose Key,landmarks,Landmarks,leonida-keys,Leonida Keys,0.7024,0.891,sourced
+lm-l2755,Berth,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2489,0.4302,sourced
+lm-l85,Vice Museum of Art,landmarks,Landmarks,vice-city,Vice City,0.688,0.4882,sourced
+lm-l1207,Fire Danger Sign,activities,Activities,mount-kalaga,Mount Kalaga,0.418,0.181,sourced
+lm-l3390,Bridge (Peregrine Bay),landmarks,Landmarks,vice-city,Vice City,0.689,0.487,sourced
+lm-l436,? Concert Hall,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4893,sourced
+lm-l820,Guardhouse,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.251,0.4343,sourced
+lm-l2352,Perfecto Boatyard & Marina,businesses,Businesses,vice-city,Vice City,0.6769,0.4897,sourced
+lm-l2702,Turn 8C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.247,0.403,sourced
+lm-l836,Watson Island Sea Port,landmarks,Landmarks,vice-city,Vice City,0.6819,0.4898,sourced
+lm-l565,X Hotel,businesses,Businesses,vice-city,Vice City,0.6705,0.487,sourced
+lm-l1354,Parking Garage (Crosstown),businesses,Businesses,vice-city,Vice City,0.6791,0.4903,sourced
+lm-l1587,Hospital (Southside),businesses,Businesses,vice-city,Vice City,0.6602,0.5077,sourced
+lm-l1568,Airfield (Mariana County),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4315,sourced
+lm-l1092,Bus Parking Lot,landmarks,Landmarks,vice-city,Vice City,0.671,0.511,sourced
+lm-l477,Allied Air Hangar,landmarks,Landmarks,vice-city,Vice City,0.6699,0.4882,sourced
+lm-l162,Water Tower (Waning Sands),landmarks,Landmarks,vice-city,Vice City,0.6882,0.4629,sourced
+lm-l1303,Parking Lot (Hamlet),landmarks,Landmarks,vice-city,Vice City,0.6433,0.5232,sourced
+lm-l1753,Lock (Vice City),landmarks,Landmarks,vice-city,Vice City,0.704,0.463,sourced
+lm-l2313,City of Vice Fire Rescue Station,businesses,Businesses,vice-city,Vice City,0.6772,0.4901,sourced
+lm-l2743,Fruitshots,landmarks,Landmarks,vice-city,Vice City,0.665,0.466,sourced
+lm-l1495,Paradise Garage,businesses,Businesses,port-gellhorn,Port Gellhorn,0.235,0.436,sourced
+lm-l2607,Hamlet Platinum(?) Plaza,businesses,Businesses,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l2742,"""Welcome to The Keys"" Sign",landmarks,Landmarks,leonida-keys,Leonida Keys,0.7407,0.869,sourced
+lm-l1494,Wyman's World Auto Salvage Co.,landmarks,Landmarks,ambrosia,Ambrosia,0.5206,0.34,sourced
+lm-l2938,The Thirsty Wolf,landmarks,Landmarks,ambrosia,Ambrosia,0.4775,0.29,sourced
+lm-l163,Evergreen Mall,businesses,Businesses,grassrivers,Grassrivers,0.452,0.5246,sourced
+lm-l499,Ficroth Capital,landmarks,Landmarks,vice-city,Vice City,0.68,0.4923,sourced
+lm-l1752,Lock (Vice-Dale County),landmarks,Landmarks,vice-city,Vice City,0.653,0.484,sourced
+lm-l533,Leaf Links Golf Club,businesses,Businesses,vice-city,Vice City,0.6865,0.4798,sourced
+lm-l3411,RES TRADE PAINT,landmarks,Landmarks,vice-city,Vice City,0.677,0.475,sourced
+lm-l1139,Sandeep Plaza,businesses,Businesses,vice-city,Vice City,0.6878,0.4889,sourced
+lm-l3104,Leonard County Sheriff's Office,businesses,Businesses,grassrivers,Grassrivers,0.4549,0.5597,sourced
+lm-l708,Autograph Hangar 1,landmarks,Landmarks,vice-city,Vice City,0.6674,0.4873,sourced
+lm-l2980,Shore Court Garage,businesses,Businesses,vice-city,Vice City,0.653,0.493,sourced
+lm-l1590,Strip Mall,businesses,Businesses,vice-city,Vice City,0.6588,0.5096,sourced
+lm-l2703,Turn 9C,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.271,0.418,sourced
+lm-l437,Palaestra Tower,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4893,sourced
+lm-l1656,Avis,landmarks,Landmarks,vice-city,Vice City,0.68,0.4868,sourced
+lm-l2611,Mio,landmarks,Landmarks,vice-city,Vice City,0.6436,0.5244,sourced
+lm-l3000,Port VC Tunnel,landmarks,Landmarks,vice-city,Vice City,0.6822,0.49,sourced
+lm-l3145,Metro Station (Peacock Bay),businesses,Businesses,vice-city,Vice City,0.671,0.505,sourced
+lm-l1482,Electric Fang Tattoo,landmarks,Landmarks,vice-city,Vice City,0.6787,0.4877,sourced
+lm-l2754,Casino (Balsero),businesses,Businesses,vice-city,Vice City,0.6716,0.4872,sourced
+lm-l1601,WLC Community Centre,landmarks,Landmarks,vice-city,Vice City,0.6585,0.5085,sourced
+lm-l2492,Metro Station (Tequesta),businesses,Businesses,vice-city,Vice City,0.68,0.4913,sourced
+lm-l175,Archez,landmarks,Landmarks,vice-city,Vice City,0.6786,0.4879,sourced
+lm-l1103,? Flare,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.268,0.43,sourced
+lm-l732,? (E),landmarks,Landmarks,vice-city,Vice City,0.6809,0.491,sourced
+lm-l2685,Turn 37,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.238,0.436,sourced
+lm-l677,Cipher Mall,businesses,Businesses,vice-city,Vice City,0.63,0.44,sourced
+lm-l1416,Bus Stop (Shoreline) 2,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4901,sourced
+lm-l47,Cortez Hotel,businesses,Businesses,vice-city,Vice City,0.6878,0.4904,sourced
+lm-l3352,Beach Volleyball,activities,Activities,vice-city,Vice City,0.659,0.52,sourced
+lm-l3217,Fenestra Plaza,businesses,Businesses,vice-city,Vice City,0.6803,0.4915,sourced
+lm-l1338,Baseball Field?,landmarks,Landmarks,ambrosia,Ambrosia,0.544,0.322,sourced
+lm-l2451,Cash For Scrap Scrapyard,landmarks,Landmarks,vice-city,Vice City,0.707,0.49,sourced
+lm-l323,Container Crane (1),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2505,0.4336,sourced
+lm-l2781,Bridge (Buckskin),landmarks,Landmarks,vice-city,Vice City,0.63,0.492,sourced
+lm-l266,Jason's House,landmarks,Landmarks,leonida-keys,Leonida Keys,0.69,0.82,sourced
+lm-l909,Empty Lot,landmarks,Landmarks,vice-city,Vice City,0.6799,0.4892,sourced
+lm-l2693,Turn 28,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l1545,Turn 18,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
+lm-l3128,Interchange (Vice-Dale County),landmarks,Landmarks,vice-city,Vice City,0.6858,0.4701,sourced
+lm-l1379,Bohemia,landmarks,Landmarks,vice-city,Vice City,0.6791,0.4878,sourced
+lm-l51,Cordelia,businesses,Businesses,vice-city,Vice City,0.6878,0.4905,sourced
+lm-l883,Sculpture,landmarks,Landmarks,vice-city,Vice City,0.6807,0.4906,sourced
+lm-l1027,Cabin,activities,Activities,mount-kalaga,Mount Kalaga,0.3859,0.1897,sourced
+lm-l1861,Train Bridge (Vice-Dale County),landmarks,Landmarks,vice-city,Vice City,0.671,0.487,sourced
+lm-l1709,The Hub Gallery,businesses,Businesses,vice-city,Vice City,0.6787,0.4877,sourced
+lm-l991,Clinic,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.268,0.445,sourced
+lm-l1565,Airfield (Leonard County),landmarks,Landmarks,grassrivers,Grassrivers,0.4557,0.5593,sourced
+lm-l704,Judith's?,landmarks,Landmarks,vice-city,Vice City,0.659,0.517,sourced
+lm-l591,Ambrosia Station,businesses,Businesses,ambrosia,Ambrosia,0.5078,0.2954,sourced
+lm-l2426,Lot,landmarks,Landmarks,vice-city,Vice City,0.6721,0.4885,sourced
+lm-l67,Shorefront Ave,activities,Activities,vice-city,Vice City,0.6875,0.4906,sourced
+lm-l657,Water Tower (Ambrosia),landmarks,Landmarks,ambrosia,Ambrosia,0.493,0.319,sourced
+lm-l2471,Break Inn (Salton),businesses,Businesses,vice-city,Vice City,0.6708,0.487,sourced
+lm-l2888,Tunnel,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.25,0.43,sourced
+lm-l196,Fleeca Field,activities,Activities,vice-city,Vice City,0.6765,0.4903,sourced
+lm-l1318,La Perle Caribbean Market,businesses,Businesses,vice-city,Vice City,0.68,0.4847,sourced
+lm-l179,Archipelago (N),landmarks,Landmarks,vice-city,Vice City,0.6806,0.4885,sourced
+lm-l1932,Perkins Deli,landmarks,Landmarks,vice-city,Vice City,0.6804,0.4886,sourced
+lm-l2758,Video Forever,businesses,Businesses,vice-city,Vice City,0.6759,0.4901,sourced
+lm-l745,Calle Creativa,landmarks,Landmarks,vice-city,Vice City,0.6765,0.4916,sourced
+lm-l315,Schlott Construction (Port Gellhorn),landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2514,0.4372,sourced
+lm-l2689,Turn 4B,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2878,0.3893,sourced
+lm-l3098,Flash FM,landmarks,Landmarks,vice-city,Vice City,0.6803,0.4865,sourced
+lm-l694,Container Crane #4,landmarks,Landmarks,vice-city,Vice City,0.6858,0.4915,sourced
+lm-l505,"""House C""",landmarks,Landmarks,leonida-keys,Leonida Keys,0.716,0.867,sourced
+lm-l440,V-Rock Café,businesses,Businesses,vice-city,Vice City,0.681,0.4904,sourced
+lm-l913,Limit HQ,businesses,Businesses,vice-city,Vice City,0.6794,0.4908,sourced
+lm-l1322,Lake (Leaf Links),activities,Activities,vice-city,Vice City,0.6873,0.4794,sourced
+lm-l456,Vice City Sign,landmarks,Landmarks,vice-city,Vice City,0.6641,0.4841,sourced
+lm-l1725,Evoke,landmarks,Landmarks,vice-city,Vice City,0.674,0.493,sourced
+lm-l544,Watson Bay Water Tower,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2502,0.4317,sourced
+lm-l1660,Lârss & Elbö,landmarks,Landmarks,vice-city,Vice City,0.6801,0.4868,sourced
+lm-l2735,Turn 9,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.256,0.415,sourced
+lm-l2670,Turn 6,landmarks,Landmarks,port-gellhorn,Port Gellhorn,0.2928,0.3984,sourced
