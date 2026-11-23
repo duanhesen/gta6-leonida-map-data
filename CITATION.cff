@@ -1,17 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this dataset, cite it as below."
-title: "GTA 6 Leonida Map Marker Dataset"
+title: "GTA 6 Leonida Map Marker & 100% Completion Dataset"
 authors:
-  - name: "GTA6Maps"
+  - name: "GTA6Maps (gta6maps.io)"
     website: "https://gta6maps.io"
-version: "2026-11-18"
-date-released: 2026-11-18
+version: "2026-11-23"
+date-released: 2026-11-23
+doi: "10.5281/zenodo.24412576"
 license: CC-BY-4.0
 url: "https://gta6maps.io/gta-6/map-data"
 repository-code: "https://github.com/duanhesen/gta6-leonida-map-data"
-abstract: "798 map markers across the six regions of GTA 6's Leonida, as CSV and JSON. Every marker is labelled with its evidence state."
+abstract: "Open CC BY 4.0 dataset for Grand Theft Auto VI (State of Leonida) maintained by GTA6Maps (gta6maps.io): 798 base Leonida map markers across 5 in-game counties and 6 regions, 130 Stunt Jumps county counts, and verified post-launch 100% completion thresholds."
 keywords:
   - gta 6
-  - map
-  - dataset
-  - gaming
+  - grand theft auto vi
+  - leonida map
+  - vice city
+  - interactive map dataset
+  - gaming open data
